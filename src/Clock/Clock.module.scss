@@ -1,0 +1,8 @@
+@import "../common_styles/variables";
+
+.clock {
+  min-width: 300px;
+  color: $mainColor;
+  font-size: 48px;
+  text-shadow: 0 0 5px $mainColor, 0 0 10px $mainColor, 0 0 20px $mainColor, 0 0 0.5em $mainColor, 0 0 1em $mainColor;
+}
